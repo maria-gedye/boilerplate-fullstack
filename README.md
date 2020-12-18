@@ -8,7 +8,7 @@ See the instructions [here](https://docs.github.com/en/free-pro-team@latest/gith
 ### From the command line
 
 ```
-git clone https://github.com/dev-academy-challenges/boilerplate-fullstack [your-project-name]
+git clone https://github.com/maria-gedye/boilerplate-fullstack [your-project-name]
 cd [your-project-name]
 npm install # to install dependencies
 npm run dev # to start the dev server
